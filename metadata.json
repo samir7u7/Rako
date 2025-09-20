@@ -1,0 +1,7 @@
+{
+  "name": "RAKO GPT Test",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
